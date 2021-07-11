@@ -2,7 +2,11 @@
 <h2 id="about-me"> :pencil: About me!</h2>
 
 <p align="justify"> 
-Hey there 👋🏼  I'm Giuliano, a 28 year old junior software developer from Scotland. I've spent the last 5 years traveling the world, working with a global leading brand in the aviation industry - and now have made a career change into tech! I'm currently looking for my first role in industry and excited about the opportunity to be involved in something special.
+Hey there 👋🏼 
+</p>
+
+<p align="justify"> 
+I'm Giuliano, a 28 year old junior software developer from Scotland. I've spent the last 5 years traveling the world, working with a global leading brand in the aviation industry - and now have made a career change into tech! I'm currently looking for my first role in industry and excited about the opportunity to be involved in something special.
 </p>
 
 <p align="justify"> 
