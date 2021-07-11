@@ -18,7 +18,7 @@ You'll find some of my larger projects in the pinned section on GitHub - I urge 
 </p>
 
 <p align="justify"> 
-I have a keen interest in novel & disruptive technologies, always being intrigued about new ideas that can improve the quality of people's lives. If you'd like to have a chat, or have any questions - please reach out to me at giulianoderosas@gmail.com 📫 Thanks for stopping by!
+I have a keen interest in novel & disruptive technologies, always intrigued about new ideas that can improve the quality of people's lives. If you'd like to have a chat, or have any questions - please reach out to me at giulianoderosas@gmail.com 📫 Thanks for stopping by!
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
